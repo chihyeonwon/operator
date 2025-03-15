@@ -1,6 +1,8 @@
 # operator
 실무용 연산자 정리 (filtering)
 
+## 포함, 제외 동일 조건
+
 ## 논리 연산자(검색용)
 AND 
 NOT
