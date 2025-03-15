@@ -6,4 +6,6 @@ AND
 NOT
 OR
 
+like 
+in 
 ## 와일드 카드(검색용)
